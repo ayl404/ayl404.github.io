@@ -1,3 +1,11 @@
 body{
   background-color: lightgoldenrodyellow
 }
+h1{
+  color:darkgreen;
+  font-size: 70px;
+}
+h2{
+  color: darkblue;
+  font-style:italic;
+}
