@@ -3,6 +3,12 @@ body{
   margin-left: auto;
   margin-right: auto;
   width: 960px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 h1{
   color:darkgreen;
@@ -18,4 +24,7 @@ p{
 a{
   color: darkred;
   font-size:20px;
+}
+#xiexie{
+  color: darkblue;
 }
